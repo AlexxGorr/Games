@@ -1,0 +1,236 @@
+[
+  {
+    "username": "jose",
+    "score": 6.58,
+    "size": 12,
+    "win": true,
+    "cnt_user": 79,
+    "cnt_ai": 77,
+    "time": "16:29-2/10/2024"
+  },
+  {
+    "username": "jose11111",
+    "score": 6.83,
+    "size": 12,
+    "win": true,
+    "cnt_user": 82,
+    "cnt_ai": 73,
+    "time": "16:23-3/10/2024"
+  },
+  {
+    "username": "dr dre",
+    "score": -6.42,
+    "size": 12,
+    "win": false,
+    "cnt_user": 69,
+    "cnt_ai": 77,
+    "time": "11:49-11/10/2024"
+  },
+  {
+    "username": "alexxxx1",
+    "score": -6.58,
+    "size": 12,
+    "win": false,
+    "cnt_user": 68,
+    "cnt_ai": 79,
+    "time": "12:24-11/10/2024"
+  },
+  {
+    "username": "qwerty11",
+    "score": -6.33,
+    "size": 12,
+    "win": false,
+    "cnt_user": 67,
+    "cnt_ai": 76,
+    "time": "11:59-28/10/2024"
+  },
+  {
+    "username": "deadmen",
+    "score": 6.5,
+    "size": 12,
+    "win": true,
+    "cnt_user": 78,
+    "cnt_ai": 66,
+    "time": "12:13-28/10/2024"
+  },
+  {
+    "username": "alexxxx11",
+    "score": -6.42,
+    "size": 12,
+    "win": false,
+    "cnt_user": 68,
+    "cnt_ai": 77,
+    "time": "12:30-28/10/2024"
+  },
+  {
+    "username": "qwer",
+    "score": 6.5,
+    "size": 12,
+    "win": true,
+    "cnt_user": 78,
+    "cnt_ai": 77,
+    "time": "16:29-29/10/2024"
+  },
+  {
+    "username": "qwerty1111",
+    "score": 6.75,
+    "size": 12,
+    "win": true,
+    "cnt_user": 81,
+    "cnt_ai": 81,
+    "time": "16:27-30/10/2024"
+  },
+  {
+    "username": "alexxxx",
+    "score": 6.08,
+    "size": 12,
+    "win": true,
+    "cnt_user": 73,
+    "cnt_ai": 73,
+    "time": "11:42-1/11/2024"
+  },
+  {
+    "username": "jose1",
+    "score": 6.75,
+    "size": 12,
+    "win": true,
+    "cnt_user": 81,
+    "cnt_ai": 73,
+    "time": "12:1-1/11/2024"
+  },
+  {
+    "username": "infer",
+    "score": 6.92,
+    "size": 12,
+    "win": true,
+    "cnt_user": 83,
+    "cnt_ai": 80,
+    "time": "11:7-8/11/2024"
+  },
+  {
+    "username": "infer1",
+    "score": 6.08,
+    "size": 12,
+    "win": true,
+    "cnt_user": 73,
+    "cnt_ai": 73,
+    "time": "11:25-8/11/2024"
+  },
+  {
+    "username": "jose11",
+    "score": 6.5,
+    "size": 12,
+    "win": true,
+    "cnt_user": 78,
+    "cnt_ai": 78,
+    "time": "12:46-11/11/2024"
+  },
+  {
+    "username": "alexxx",
+    "score": -6.33,
+    "size": 12,
+    "win": false,
+    "cnt_user": 72,
+    "cnt_ai": 76,
+    "time": "13:0-11/11/2024"
+  },
+  {
+    "username": "alexxgorr",
+    "score": 5.92,
+    "size": 12,
+    "win": true,
+    "cnt_user": 71,
+    "cnt_ai": 62,
+    "time": "13:50-2/12/2024"
+  },
+  {
+    "username": "alexxgorr1",
+    "score": -5.75,
+    "size": 12,
+    "win": false,
+    "cnt_user": 60,
+    "cnt_ai": 69,
+    "time": "13:56-6/12/2024"
+  },
+  {
+    "username": "alexxgorr11",
+    "score": 6.83,
+    "size": 12,
+    "win": true,
+    "cnt_user": 82,
+    "cnt_ai": 82,
+    "time": "14:11-6/12/2024"
+  },
+  {
+    "username": "alexxgorr111",
+    "score": 5.92,
+    "size": 12,
+    "win": true,
+    "cnt_user": 71,
+    "cnt_ai": 57,
+    "time": "14:39-6/12/2024"
+  },
+  {
+    "username": "alexxgorr1111",
+    "score": 6.0,
+    "size": 12,
+    "win": true,
+    "cnt_user": 72,
+    "cnt_ai": 63,
+    "time": "16:3-6/12/2024"
+  },
+  {
+    "username": "alexxgorr11111",
+    "score": -6.0,
+    "size": 12,
+    "win": false,
+    "cnt_user": 55,
+    "cnt_ai": 72,
+    "time": "16:19-6/12/2024"
+  },
+  {
+    "username": "alexxgorr111111",
+    "score": -6.08,
+    "size": 12,
+    "win": false,
+    "cnt_user": 64,
+    "cnt_ai": 73,
+    "time": "12:42-17/12/2024"
+  },
+  {
+    "username": "infer11",
+    "score": -6.58,
+    "size": 12,
+    "win": false,
+    "cnt_user": 73,
+    "cnt_ai": 79,
+    "time": "15:10-17/12/2024"
+  },
+  {
+    "username": "alexxgorr1111111",
+    "score": -6.67,
+    "size": 12,
+    "win": false,
+    "cnt_user": 74,
+    "cnt_ai": 80,
+    "time": "15:57-30/5/2025"
+  },
+  {
+    "username": "alexxgorr11111111",
+    "score": -6.5,
+    "size": 12,
+    "win": false,
+    "cnt_user": 71,
+    "cnt_ai": 78,
+    "time": "15:45-4/6/2025"
+  },
+  {
+    "username": "mazafucker",
+    "score": -6.08,
+    "size": 12,
+    "win": false,
+    "cnt_user": 59,
+    "cnt_ai": 73,
+    "time": "15:59-4/6/2025"
+  }
+]

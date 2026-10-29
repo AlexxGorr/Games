@@ -1,0 +1,29 @@
+[
+  {
+    "value_bank": 4903210
+  },
+  {
+    "username": "alexx gorr",
+    "password": "123",
+    "value_user": 105,
+    "refundable_amount": 0
+  },
+  {
+    "username": "jose",
+    "password": "123",
+    "value_user": 1000,
+    "refundable_amount": 7800
+  },
+  {
+    "username": "mesmeric",
+    "password": "123",
+    "value_user": 150,
+    "refundable_amount": 400
+  },
+  {
+    "username": "alexx",
+    "password": "123",
+    "value_user": 230,
+    "refundable_amount": 0
+  }
+]
